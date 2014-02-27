@@ -1,1 +1,10 @@
-Setup instruciton:
+Setup instrucitons:
+
+
+Copy/Paste
+-To get get the copy/paste feature in URxvt working you first need xclip installed
+-Now down the necessary  perl script from http://db.tt/JjlLYd5A and copy /usr/lib/urxvt/pearl/clipboard-osc, 
+noting that lib may be lib64 and clipboard-osc may be clipboard depending on your system. 
+
+Colors:
+-The color palette from the tango desktop project has been used.
